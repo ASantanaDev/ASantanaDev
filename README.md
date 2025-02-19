@@ -5,6 +5,8 @@
   I'm a junior developer constantly learning. My main focus is backend development, but I'm also interested in learning frontend to have a more well-rounded skill set.
 </h3>
 
+<br>
+
 - 🌱 Currently focused on personal growth and professional development.
   <img align="right" style="width:16rem; height:auto; margin-left:20px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJud2xnc21wbjdqeGx4aTg5cWN2bzRwOGI2dTA1NWFycXZ2MGdpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif"/>
 
@@ -148,5 +150,6 @@
   </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
