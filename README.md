@@ -96,6 +96,10 @@
     <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
       alt="Vercel"/>
   </a>
+  <a href="https://www.cloudflare.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white"
+      alt="Cloudflare"/>
+  </a>
 </p>
 
 <h3>Software Tools</h3>
