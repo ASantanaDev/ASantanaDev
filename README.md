@@ -10,13 +10,13 @@
 - 🌱 Currently focused on personal growth and professional development.
   <img align="right" style="width:16rem; height:auto; margin-left:20px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJud2xnc21wbjdqeGx4aTg5cWN2bzRwOGI2dTA1NWFycXZ2MGdpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif"/>
 
-- 👯 Excited to collaborate on **Angular** projects
+- 👯 Excited to collaborate on **Angular** projects.
 
 - 🤝 Open to advice on **Backend and Frontend** skills.
 
-- 👨‍💻 Check out my projects at [@ASantanaDev](github.com/ASantanaDev)
+- 👨‍💻 Check out my projects at [@ASantanaDev](github.com/ASantanaDev?tab=repositories).
 
-- 🎮 RPG gamer, book and manga enthusiast
+- 🎮 RPG gamer, book and manga enthusiast.
 
 - ⚡ Fun fact: **Nothing beats a cold beer with good friends!**
 
