@@ -14,8 +14,6 @@
 
 - 🤝 Open to advice on **Backend and Frontend** skills.
 
-- 👨‍💻 Check out my projects at [@ASantanaDev](github.com/ASantanaDev?tab=repositories).
-
 - 🎮 RPG gamer, book and manga enthusiast.
 
 - ⚡ Fun fact: **Nothing beats a cold beer with good friends!**
